@@ -15,7 +15,6 @@ const Home = () => {
           <Input placeholder="Email" />
         </div>
         <div className=" flex">
-          {" "}
           <Button />
         </div>
       </div>
